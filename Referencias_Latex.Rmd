@@ -1,0 +1,76 @@
+---
+title: 
+lang: es
+toc: TRUE
+output: 
+    pdf_document:
+header-includes:
+- \usepackage{draftwatermark}
+- \SetWatermarkText{}
+- \usepackage{fancyhdr}
+- \usepackage{graphicx}
+- \usepackage{parskip}
+- \usepackage{caption}
+- \captionsetup[table]{name=\textbf{Tabla},labelsep=period}
+- \captionsetup[figure]{name=\textbf{Figura},labelsep=period}
+- \captionsetup{justification=justified,format=plain,font=small,labelfont=bf,margin=40pt}
+- \pagestyle{fancy}
+- \usepackage{geometry}
+- \geometry{top=1.5cm, bottom=1cm, left=2.5cm, right=2.5cm}
+- \usepackage{helvet}
+- \renewcommand{\familydefault}{\sfdefault}
+- \usepackage{multirow}
+- \usepackage{natbib}
+- \renewcommand{\baselinestretch}{1.2}
+- \newcommand{\sietepuntos}{\fontsize{7pt}{\baselineskip}\selectfont}
+- \newcommand{\cincopuntos}{\fontsize{6pt}{\baselineskip}\selectfont}
+- \usepackage{color,colortbl}
+- \definecolor{Gray}{rgb}{0.801,0.801,0.801}
+- \definecolor{Gray1}{rgb}{0.790,0.790,0.790}
+- \definecolor{Gray2}{rgb}{0.830,0.830,0.830}
+- \definecolor{Gray3}{rgb}{0.870,0.870,0.870}
+- \definecolor{Gray4}{rgb}{0.940,0.940,0.940}
+- \addtolength{\headheight}{4.5\baselineskip}
+- \setlength{\headheight}{70pt}
+- \setlength{\footskip}{5pt}
+- \setlength{\textheight}{658pt}
+- \fancyhead[CO,CE]{\includegraphics[height=1.5cm]{logoifop.png}\\ \sietepuntos INSTITUTO DE FOMENTO PESQUERO / DIVISION INVESTIGACION PESQUERA}
+- \fancyhead[LO,LE]{ }
+- \fancyhead[RO,RE]{ }
+- \renewcommand{\headrulewidth}{0.5pt}
+- \fancyfoot[C]{\cincopuntos \thepage \\ \vspace{-0.2cm} ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ \\ \vspace{-0.2cm} \cincopuntos CONVENIO DE DESEMPEÑO 2021 IFOP/SUBSECRETARÍA DE ECONOMíA Y EMT \\ \vspace{-0.1cm} SEGUNDO INFORME. ANCHOVETA DE LA  REGIÓN DE VALPARAÍSO A LA REGIÓN DE LOS LAGOS, 2022}
+bibliography: Essay_ref.bib
+csl: apa.csl
+link-citations: yes
+linkcolor: blue
+---
+
+\pagebreak
+
+## INTRODUCCION
+
+actualmente existen variados estudios que tratan de abordar las respuestas de las especies a forzantes climáticas en un escenario de cambios [@Trathan2017; @Plaganyi2014; @Lucey2021; @Jacquet2016a]. Existen multiples evidencias que demuestran y magnifican el impacto del Camblìo Climático en distintos aspectos en la poblaciones de especies marinas, ya sean estas; mamóferos [cita], peces [cita], moluscos [cita] y diversos organismos marinos que constituyen comunidades ecologicas en distintos ecosistemas del planeta. Algunos autores proponen que los impactos del cambio climatico, a traves de un calentamiento de las masas de agua, gatillarìa cambios en los patrones de distribución espacial de los organismos marinos, incluso, haciendolos migrar hacia altas latitudes. En este sentido, es necesario preguntar como impactaran las condiciones oceanograficas cambiantes en ecosistemas de altas latitudes, y com responderan las especies marinas que allí habitan, o bien las que llegaran a estas latitudes. En ese sentido, regiones polares denes ser analizadas a la luz de la evidencia cientifica en este aspecto, identificando los cambios ocurridos, asi como también, proyectar los impoactos del cambio climatico en estas poblaciones [@Pitman2018a] y [@Abrams2016a]
+
+Este ensayo tiene como objetivo identificar que cambios se producen en el ambiente marino a causa del cambio climático recirente, los cambios de distribución de las poblaciones marinas, y por último, tambien identificar escenarios futuros y su implcancia en la sociedad humana [@Rijnsdorp2009; @Melnychuk2014].
+
+
+# 2. ANTECEDENTES
+
+## 2.1. Distribución del recurso
+
+La anchoveta (*Engraulis ringens*) es reconocida junto con sardina común (*Strangomera bentincki*) como especies netamente costeras (distribución longitudinal no supera las 30 millas náuticas de la costa), neríticas (habitan profundidades menores a los 70 ó 50 m respectivamente), forman cardúmenes altamente densos y son especies fuertemente influenciadas por factores bióticos y abióticos (Aguayo & Soto 1978, Serra 1983, Cubillos & Arancibia 1993 a y b, Arancibia *et al*. 1994, Cubillos *et al*. 2001). Ambos recursos, sostienen una importante actividad pesquera industrial y cerquera artesanal en el litoral que abarca las regiones de Valparaíso (33°S) y Los Lagos (42°S), siendo los principales puertos de desembarque; San Antonio (Región de Valparaíso), Coronel, San Vicente y Talcahuano ( Región del Bio-Bio), Corral (Región de Los Ríos) y Calbuco y Puerto Montt (Región de Los Lagos) (\textbf{Figura \ref{Fig1}}). Los mayores desembarques se registran en un 90 y 95% entre las regiones de Valparaíso y Bio-Bio (San Antonio, Talcahuano y Coronel). La actividad pesquera opera en profundidades que no sobrepasan los 50 m y en un margen costero en promedio próximo a las 30 millas náuticas desde la costa . 
+
+
+
+```{=tex}
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.7\textwidth]{Figuras/Fig1_Aranis.pdf}
+\caption{Área de estudio de la pesquería de cerco centro-sur realizado por IFOP para el monitoreo de la pesquería de anchoveta. (Fuente: Aranis \textit{et al.} 2020) .}
+\label{Fig1}
+\end{figure}
+```
+
+\pagebreak
+## REFERENCIAS
+
