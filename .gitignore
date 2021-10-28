@@ -34,3 +34,13 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+Referencias_Latex.aux
+
+Referencias_Latex.log
+
+Referencias_Latex.out
+
+Referencias_Latex.toc
+
+Template_Referencias_BibTEX.Rproj
