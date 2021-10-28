@@ -39,28 +39,22 @@ header-includes:
 - \fancyhead[RO,RE]{ }
 - \renewcommand{\headrulewidth}{0.5pt}
 - \fancyfoot[C]{\cincopuntos \thepage \\ \vspace{-0.2cm} ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ \\ \vspace{-0.2cm} \cincopuntos CONVENIO DE DESEMPEÑO 2021 IFOP/SUBSECRETARÍA DE ECONOMíA Y EMT \\ \vspace{-0.1cm} SEGUNDO INFORME. ANCHOVETA DE LA  REGIÓN DE VALPARAÍSO A LA REGIÓN DE LOS LAGOS, 2022}
-bibliography: Essay_ref.bib
+
+bibliography: ReferenciasEstatus.bib
 csl: apa.csl
 link-citations: yes
-linkcolor: blue
+linkcolor: gray
 ---
 
 \pagebreak
 
 ## INTRODUCCION
 
-actualmente existen variados estudios que tratan de abordar las respuestas de las especies a forzantes climáticas en un escenario de cambios [@Trathan2017; @Plaganyi2014; @Lucey2021; @Jacquet2016a]. Existen multiples evidencias que demuestran y magnifican el impacto del Camblìo Climático en distintos aspectos en la poblaciones de especies marinas, ya sean estas; mamóferos [cita], peces [cita], moluscos [cita] y diversos organismos marinos que constituyen comunidades ecologicas en distintos ecosistemas del planeta. Algunos autores proponen que los impactos del cambio climatico, a traves de un calentamiento de las masas de agua, gatillarìa cambios en los patrones de distribución espacial de los organismos marinos, incluso, haciendolos migrar hacia altas latitudes. En este sentido, es necesario preguntar como impactaran las condiciones oceanograficas cambiantes en ecosistemas de altas latitudes, y com responderan las especies marinas que allí habitan, o bien las que llegaran a estas latitudes. En ese sentido, regiones polares denes ser analizadas a la luz de la evidencia cientifica en este aspecto, identificando los cambios ocurridos, asi como también, proyectar los impoactos del cambio climatico en estas poblaciones [@Pitman2018a] y [@Abrams2016a]
-
-Este ensayo tiene como objetivo identificar que cambios se producen en el ambiente marino a causa del cambio climático recirente, los cambios de distribución de las poblaciones marinas, y por último, tambien identificar escenarios futuros y su implcancia en la sociedad humana [@Rijnsdorp2009; @Melnychuk2014].
-
-
 # 2. ANTECEDENTES
 
 ## 2.1. Distribución del recurso
 
-La anchoveta (*Engraulis ringens*) es reconocida junto con sardina común (*Strangomera bentincki*) como especies netamente costeras (distribución longitudinal no supera las 30 millas náuticas de la costa), neríticas (habitan profundidades menores a los 70 ó 50 m respectivamente), forman cardúmenes altamente densos y son especies fuertemente influenciadas por factores bióticos y abióticos (Aguayo & Soto 1978, Serra 1983, Cubillos & Arancibia 1993 a y b, Arancibia *et al*. 1994, Cubillos *et al*. 2001). Ambos recursos, sostienen una importante actividad pesquera industrial y cerquera artesanal en el litoral que abarca las regiones de Valparaíso (33°S) y Los Lagos (42°S), siendo los principales puertos de desembarque; San Antonio (Región de Valparaíso), Coronel, San Vicente y Talcahuano ( Región del Bio-Bio), Corral (Región de Los Ríos) y Calbuco y Puerto Montt (Región de Los Lagos) (\textbf{Figura \ref{Fig1}}). Los mayores desembarques se registran en un 90 y 95% entre las regiones de Valparaíso y Bio-Bio (San Antonio, Talcahuano y Coronel). La actividad pesquera opera en profundidades que no sobrepasan los 50 m y en un margen costero en promedio próximo a las 30 millas náuticas desde la costa . 
-
-
+La anchoveta (*Engraulis ringens*) es reconocida junto con sardina común (*Strangomera bentincki*) como especies netamente costeras (distribución longitudinal no supera las 30 millas náuticas de la costa), neríticas (habitan profundidades menores a los 70 ó 50 m respectivamente), forman cardúmenes altamente densos y son especies fuertemente influenciadas por factores bióticos y abióticos (Aguayo & Soto 1978, Serra 1983, Cubillos & Arancibia 1993 a y b, Arancibia *et al*. 1994, Cubillos *et al*. 2001). Ambos recursos, sostienen una importante actividad pesquera industrial y cerquera artesanal en el litoral que abarca las regiones de Valparaíso (33°S) y Los Lagos (42°S), siendo los principales puertos de desembarque; San Antonio (Región de Valparaíso), Coronel, San Vicente y Talcahuano ( Región del Bio-Bio), Corral (Región de Los Ríos) y Calbuco y Puerto Montt (Región de Los Lagos) (\textbf{Figura \ref{Fig1}}). Los mayores desembarques se registran en un 90 y 95% entre las regiones de Valparaíso y Bio-Bio (San Antonio, Talcahuano y Coronel). La actividad pesquera opera en profundidades que no sobrepasan los 50 m y en un margen costero en promedio próximo a las 30 millas náuticas desde la costa .
 
 ```{=tex}
 \begin{figure}[h!]
@@ -70,7 +64,14 @@ La anchoveta (*Engraulis ringens*) es reconocida junto con sardina común (*Stra
 \label{Fig1}
 \end{figure}
 ```
+\pagebreak
+
+## INFORMES DE ESTATUS PESQUERÍAS PELÁGICAS
+
+-   Informes de estatus y CBA de anchoveta centro-sur [@Zuniga2017; @Zuniga2018; @Zuniga2018a; @Zuniga2019; @Zuniga2021b; @Zuniga2021f; @Zuniga2018e; @Zuniga2017c; @Zuniga2018f]
+
+-   Informes de estatus y CBA de sardina común centro-sur [@Zuniga2017a; @Zuniga2017b; @Zuniga2018b; @Zuniga2018c; @Zuniga2021; @Zuniga2020; @Zuniga2021c; @Zuniga2021d; @Zuniga2021h; @Zuniga2018g]
 
 \pagebreak
-## REFERENCIAS
 
+## REFERENCIAS
