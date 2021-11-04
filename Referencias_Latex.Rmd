@@ -40,30 +40,17 @@ header-includes:
 - \renewcommand{\headrulewidth}{0.5pt}
 - \fancyfoot[C]{\cincopuntos \thepage \\ \vspace{-0.2cm} ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ \\ \vspace{-0.2cm} \cincopuntos CONVENIO DE DESEMPEÑO 2021 IFOP/SUBSECRETARÍA DE ECONOMíA Y EMT \\ \vspace{-0.1cm} SEGUNDO INFORME. ANCHOVETA DE LA  REGIÓN DE VALPARAÍSO A LA REGIÓN DE LOS LAGOS, 2022}
 
+<<<<<<< Updated upstream
 bibliography: ReferenciasEstatus.bib
 csl: apa_1.csl
+=======
+bibliography: ReferenciaEstatusV1.bib
+csl: apa.csl
+>>>>>>> Stashed changes
 link-citations: yes
 linkcolor: gray
 ---
 
-\pagebreak
-
-## INTRODUCCION
-
-# 2. ANTECEDENTES
-
-## 2.1. Distribución del recurso
-
-La anchoveta (*Engraulis ringens*) es reconocida junto con sardina común (*Strangomera bentincki*) como especies netamente costeras (distribución longitudinal no supera las 30 millas náuticas de la costa), neríticas (habitan profundidades menores a los 70 ó 50 m respectivamente), forman cardúmenes altamente densos y son especies fuertemente influenciadas por factores bióticos y abióticos (Aguayo & Soto 1978, Serra 1983, Cubillos & Arancibia 1993 a y b, Arancibia *et al*. 1994, Cubillos *et al*. 2001). Ambos recursos, sostienen una importante actividad pesquera industrial y cerquera artesanal en el litoral que abarca las regiones de Valparaíso (33°S) y Los Lagos (42°S), siendo los principales puertos de desembarque; San Antonio (Región de Valparaíso), Coronel, San Vicente y Talcahuano ( Región del Bio-Bio), Corral (Región de Los Ríos) y Calbuco y Puerto Montt (Región de Los Lagos) (\textbf{Figura \ref{Fig1}}). Los mayores desembarques se registran en un 90 y 95% entre las regiones de Valparaíso y Bio-Bio (San Antonio, Talcahuano y Coronel). La actividad pesquera opera en profundidades que no sobrepasan los 50 m y en un margen costero en promedio próximo a las 30 millas náuticas desde la costa .
-
-```{=tex}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=0.7\textwidth]{Figuras/Fig1_Aranis.pdf}
-\caption{Área de estudio de la pesquería de cerco centro-sur realizado por IFOP para el monitoreo de la pesquería de anchoveta. (Fuente: Aranis \textit{et al.} 2020) .}
-\label{Fig1}
-\end{figure}
-```
 \pagebreak
 
 ## INFORMES DE ESTATUS PESQUERÍAS PELÁGICAS
