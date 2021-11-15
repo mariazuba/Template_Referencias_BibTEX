@@ -40,44 +40,31 @@ header-includes:
 - \renewcommand{\headrulewidth}{0.5pt}
 - \fancyfoot[C]{\cincopuntos \thepage \\ \vspace{-0.2cm} ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ \\ \vspace{-0.2cm} \cincopuntos CONVENIO DE DESEMPEÑO 2021 IFOP/SUBSECRETARÍA DE ECONOMíA Y EMT \\ \vspace{-0.1cm} SEGUNDO INFORME. ANCHOVETA DE LA  REGIÓN DE VALPARAÍSO A LA REGIÓN DE LOS LAGOS, 2022}
 
-bibliography: ReferenciasEstatus.bib
+
+bibliography: Referencias_noviembre2021.bib
 csl: apa_1.csl
+
 link-citations: yes
 linkcolor: gray
 ---
 
 \pagebreak
 
-## INTRODUCCION
-
-# 2. ANTECEDENTES
-
-## 2.1. Distribución del recurso
-
-La anchoveta (*Engraulis ringens*) es reconocida junto con sardina común (*Strangomera bentincki*) como especies netamente costeras (distribución longitudinal no supera las 30 millas náuticas de la costa), neríticas (habitan profundidades menores a los 70 ó 50 m respectivamente), forman cardúmenes altamente densos y son especies fuertemente influenciadas por factores bióticos y abióticos (Aguayo & Soto 1978, Serra 1983, Cubillos & Arancibia 1993 a y b, Arancibia *et al*. 1994, Cubillos *et al*. 2001). Ambos recursos, sostienen una importante actividad pesquera industrial y cerquera artesanal en el litoral que abarca las regiones de Valparaíso (33°S) y Los Lagos (42°S), siendo los principales puertos de desembarque; San Antonio (Región de Valparaíso), Coronel, San Vicente y Talcahuano ( Región del Bio-Bio), Corral (Región de Los Ríos) y Calbuco y Puerto Montt (Región de Los Lagos) (\textbf{Figura \ref{Fig1}}). Los mayores desembarques se registran en un 90 y 95% entre las regiones de Valparaíso y Bio-Bio (San Antonio, Talcahuano y Coronel). La actividad pesquera opera en profundidades que no sobrepasan los 50 m y en un margen costero en promedio próximo a las 30 millas náuticas desde la costa .
-
-```{=tex}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=0.7\textwidth]{Figuras/Fig1_Aranis.pdf}
-\caption{Área de estudio de la pesquería de cerco centro-sur realizado por IFOP para el monitoreo de la pesquería de anchoveta. (Fuente: Aranis \textit{et al.} 2020) .}
-\label{Fig1}
-\end{figure}
-```
-\pagebreak
-
 ## INFORMES DE ESTATUS PESQUERÍAS PELÁGICAS
 
--   Informes de estatus y CBA de anchoveta centro-sur [@Zuniga2017; @Zuniga2018; @Zuniga2018a; @Zuniga2019; @Zuniga2021b; @Zuniga2021f; @Zuniga2018e; @Zuniga2017c; @Zuniga2018f]
+-   Informes de estatus y CBA de anchoveta centro-sur [@Zuniga2015; @Zuniga2015a; @Zuniga2015d; @Zuniga2015g; @Zuniga2015h; @Zuniga2017; @Zuniga2017d; @Zuniga2017c; @Zuniga2017m; @Zuniga2017i; @Zuniga2017j; @Zuniga2017l; @Zuniga2018; @Zuniga2018a ; @Zuniga2018e;  @Zuniga2018f; @Zuniga2018j; @Zuniga2018h; @Zuniga2019; @Zuniga2019b;  @Zuniga2019d; @Zuniga2021b; @Zuniga2021f]
 
--   Informes de estatus y CBA de sardina común centro-sur [@Zuniga2017a; @Zuniga2017b; @Zuniga2018b; @Zuniga2018c; @Zuniga2021; @Zuniga2020; @Zuniga2021c; @Zuniga2021d; @Zuniga2021h; @Zuniga2018g]
+-   Informes de estatus y CBA de sardina común centro-sur [@Zuniga2015b; @Zuniga2015c; @Zuniga2015e;  @Zuniga2015f; @Zuniga2017a; @Zuniga2017b; @Zuniga2017e; @Zuniga2017h; @Zuniga2017f; @Zuniga2017g; @Zuniga2017k; @Zuniga2018b; @Zuniga2018c; @Zuniga2018d; @Zuniga2018g; @Zuniga2018i; @Zuniga2018l; @Zuniga2018k; @Zuniga2019a; @Zuniga2019c;  @Zuniga2020; @Zuniga2021; @Zuniga2021c; @Zuniga2021d; @Zuniga2021h]
 
+-   Informes de estatus y CBA de sardina austral [@Leal2015; @Leal2015b;  @Leal2015a; @Leal2016; @Leal2016a; @Leal2016b;  @Leal2017; @Leal2017a; @Leal2017b; @Leal2018;  @Leal2018a; @Leal2018b; @Leal2019a; @Leal2019; @Leal2020; @Zuniga2021a; @Zuniga2021c; @Zuniga2021e; @Zuniga2021g; @Zuniga2021i; @Zuniga2021j]
 
 ## INFORMES DE SEGUIMIENTO PESQUERÍAS PELÁGICAS CENTRO-SUR 
 
-[@Wiff2018; @Serra1997; @Aranis2013; @Aranis2011; @Aranis2015; @Aranis2012; @Aranis2018; @Aranis2016; @Aranis2017]
+[@Aranis2001; @Aranis2003; @Aranis2004; @Aranis2006;  @Aranis2008; @Aranis2009; @Aranis2010; @Aranis2011; @Aranis2013; @Aranis2015; @Aranis2015a;  @Aranis2012; @Aranis2017a; @Aranis2016; @Aranis2018a; @Aranis2018; @Aranis2020; @Aranis2021a; @Aranis2021; @Aranis2019; @Aranis2017; @Miranda2002;  @Serra1997 ;@Suarez2021; @Vega2018; @Vega2020; @Vega2019a; @Vega2019; @Wiff2018b; @Wiff2018; @Wiff2018a]
 
+## INFORMES DE CRUCEROS HIDROACÚSTICOS
 
+[@Araya2008; @Barria1998; @Bernal2004;  @Castillo2021; @Castillo2000; @Castillo2001; @Castillo2020a; @Castillo2020; @Castillo2019; @Castillo2012a; @Castillo2007; @Castillo2013; @Castillo2003a;  @Castillo2004; @Castillo2003; @Castillo2005; @Castillo2009a; @Castillo2008; @Castillo2009; @Castillo2012;  @Castillo2010; @Cubillos1994; @Cubillos2009; @Legua2017; @Legua2018; @Lillo2018; @Lillo2016; @Lillo2015; @Saavedra2014; @Saavedra2015a; @Saavedra2015; @Saavedra2018; @Saavedra2019; @Saavedra2020; @Saavedra2016; @Saavedra2016a; @Saavedra2017a; @Saavedra2017; @Saavedra2021a; @Saavedra2021]
 
 
 \pagebreak
