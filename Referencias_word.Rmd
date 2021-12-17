@@ -1,0 +1,17 @@
+---
+title: "Referencias en Word"
+output: word_document
+toc: TRUE
+
+bibliography: Referenciascorregidas_prueba.bib
+csl: apa_1.csl
+
+link-citations: yes
+linkcolor: blue
+---
+
+@Zuniga2018g
+
+@Zuniga2017b
+
+# REFERENCIAS
