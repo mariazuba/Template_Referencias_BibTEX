@@ -45,27 +45,196 @@ bibliography: Referencias_noviembre2021.bib
 csl: apa_1.csl
 
 link-citations: yes
-linkcolor: gray
+linkcolor: blue
 ---
 
 \pagebreak
 
 ## INFORMES DE ESTATUS PESQUERÍAS PELÁGICAS
 
--   Informes de estatus y CBA de anchoveta centro-sur [@Zuniga2015; @Zuniga2015a; @Zuniga2015d; @Zuniga2015g; @Zuniga2015h; @Zuniga2017; @Zuniga2017d; @Zuniga2017c; @Zuniga2017m; @Zuniga2017i; @Zuniga2017j; @Zuniga2017l; @Zuniga2018; @Zuniga2018a ; @Zuniga2018e;  @Zuniga2018f; @Zuniga2018j; @Zuniga2018h; @Zuniga2019; @Zuniga2019b;  @Zuniga2019d; @Zuniga2021b; @Zuniga2021f]
+-   Informes de estatus y CBA de anchoveta centro-sur 
 
--   Informes de estatus y CBA de sardina común centro-sur [@Zuniga2015b; @Zuniga2015c; @Zuniga2015e;  @Zuniga2015f; @Zuniga2017a; @Zuniga2017b; @Zuniga2017e; @Zuniga2017h; @Zuniga2017f; @Zuniga2017g; @Zuniga2017k; @Zuniga2018b; @Zuniga2018c; @Zuniga2018d; @Zuniga2018g; @Zuniga2018i; @Zuniga2018l; @Zuniga2018k; @Zuniga2019a; @Zuniga2019c;  @Zuniga2020; @Zuniga2021; @Zuniga2021c; @Zuniga2021d; @Zuniga2021h]
+[@Zuniga2015;
+@Zuniga2015a;
+@Zuniga2015d;
+@Zuniga2015g;
+@Zuniga2015h;
+@Zuniga2017;
+@Zuniga2017d;
+@Zuniga2017c;
+@Zuniga2017m;
+@Zuniga2017i;
+@Zuniga2017j;
+@Zuniga2017l; 
+@Zuniga2018;
+@Zuniga2018a;
+@Zuniga2018e;
+@Zuniga2018f;
+@Zuniga2018j; 
+@Zuniga2018h;
+@Zuniga2019;
+@Zuniga2019b;
+@Zuniga2019d;
+@Zuniga2021b; 
+@Zuniga2021f]
 
--   Informes de estatus y CBA de sardina austral [@Leal2015; @Leal2015b;  @Leal2015a; @Leal2016; @Leal2016a; @Leal2016b;  @Leal2017; @Leal2017a; @Leal2017b; @Leal2018;  @Leal2018a; @Leal2018b; @Leal2019a; @Leal2019; @Leal2020; @Zuniga2021a; @Zuniga2021c; @Zuniga2021e; @Zuniga2021g; @Zuniga2021i; @Zuniga2021j]
+-   Informes de estatus y CBA de sardina común centro-sur 
+
+[@Zuniga2015b;
+@Zuniga2015c;
+@Zuniga2015e;
+@Zuniga2015f;
+@Zuniga2017a;
+@Zuniga2017b;
+@Zuniga2017e;
+@Zuniga2017h;
+@Zuniga2017f;
+@Zuniga2017g;
+@Zuniga2017k;
+@Zuniga2018b;
+@Zuniga2018c;
+@Zuniga2018d;
+@Zuniga2018g;
+@Zuniga2018i;
+@Zuniga2018l;
+@Zuniga2018k;
+@Zuniga2019a;
+@Zuniga2019c;
+@Zuniga2020;
+@Zuniga2021;
+@Zuniga2021c;
+@Zuniga2021d;
+@Zuniga2021h]
+
+-   Informes de estatus y CBA de sardina austral 
+
+[@Leal2015; 
+@Leal2015b;
+@Leal2015a;
+@Leal2016;
+@Leal2016a;
+@Leal2016b;
+@Leal2017;
+@Leal2017a;
+@Leal2017b;
+@Leal2018;
+@Leal2018a;
+@Leal2018b;
+@Leal2019a;
+@Leal2019;
+@Leal2020;
+@Zuniga2021a;
+@Zuniga2021c;
+@Zuniga2021e;
+@Zuniga2021g;
+@Zuniga2021i;
+@Zuniga2021j]
 
 ## INFORMES DE SEGUIMIENTO PESQUERÍAS PELÁGICAS CENTRO-SUR 
 
-[@Aranis2001; @Aranis2003; @Aranis2004; @Aranis2006;  @Aranis2008; @Aranis2009; @Aranis2010; @Aranis2011; @Aranis2013; @Aranis2015; @Aranis2015a;  @Aranis2012; @Aranis2017a; @Aranis2016; @Aranis2018a; @Aranis2018; @Aranis2020; @Aranis2021a; @Aranis2021; @Aranis2019; @Aranis2017; @Miranda2002;  @Serra1997 ;@Suarez2021; @Vega2018; @Vega2020; @Vega2019a; @Vega2019; @Wiff2018b; @Wiff2018; @Wiff2018a]
+@Serra1997
+@Aranis2001
+@Miranda2002
+@Aranis2003
+@Aranis2004
+@Aranis2006
+@Aranis2008
+@Aranis2009
+@Aranis2010
+@Aranis2011
+@Aranis2012 
+@Aranis2013
+@Aranis2015
+@Aranis2015a
+@Aranis2016
+@Aranis2017a 
+@Aranis2017
+@Aranis2018a
+@Aranis2018
+@Aranis2019 
+@Aranis2020
+@Aranis2021a
+@Aranis2021
+
+@Wiff2018b
+@Wiff2018 
+@Wiff2018a
+
+
+## INFORMES DE DESCARTE
+
+@Vega2018
+@Vega2019a 
+@Vega2019 
+@Vega2020 
+@Suarez2021
 
 ## INFORMES DE CRUCEROS HIDROACÚSTICOS
 
-[@Araya2008; @Barria1998; @Bernal2004;  @Castillo2021; @Castillo2000; @Castillo2001; @Castillo2020a; @Castillo2020; @Castillo2019; @Castillo2012a; @Castillo2007; @Castillo2013; @Castillo2003a;  @Castillo2004; @Castillo2003; @Castillo2005; @Castillo2009a; @Castillo2008; @Castillo2009; @Castillo2012;  @Castillo2010; @Cubillos1994; @Cubillos2009; @Legua2017; @Legua2018; @Lillo2018; @Lillo2016; @Lillo2015; @Saavedra2014; @Saavedra2015a; @Saavedra2015; @Saavedra2018; @Saavedra2019; @Saavedra2020; @Saavedra2016; @Saavedra2016a; @Saavedra2017a; @Saavedra2017; @Saavedra2021a; @Saavedra2021]
+@Cubillos1994 
+@Barria1998
+@Castillo2000
+@Castillo2001
+@Castillo2003
+@Castillo2003a
+@Castillo2004
+@Castillo2005
+@Castillo2008 
+@Castillo2009 
+@Castillo2009a
+@Castillo2010
+@Castillo2012 
+@Castillo2012a
+@Castillo2013
+@Saavedra2014 
+@Saavedra2015
+@Saavedra2015a
+@Saavedra2016 
+@Saavedra2016a 
+@Saavedra2017a 
+@Saavedra2017
+@Saavedra2018
+@Saavedra2019
+@Saavedra2020 
+@Saavedra2021a
+@Saavedra2021
 
+@Bernal2004
+@Castillo2007
+@Araya2008
+@Cubillos2009
+
+@Lillo2015
+@Lillo2016 
+@Legua2017 
+@Legua2018 
+@Lillo2018 
+@Castillo2019
+@Castillo2020a
+@Castillo2020
+@Castillo2021
+
+
+## INFORMES DE CRUCEROS de HUEVOS
+
+@Cubillosetal2010
+@Cubillosetal2008
+@Cubillosetal2009
+@Cubillosetal2011
+@Cubillosetal2015
+@Claramuntetal2007
+@Cubillosetal2013
+@Cubillosetal2006
+@Cubillosetal2015
+@Bernaletal2004
+@Nunezetal2003
+@Cubillosetal2005
+@Cubillosetal2009
+@Grendietal2021
+@Cubillosetal2016
+@Grendietal2020
+@Letelieretal2016
+@Cubilloetal2017
 
 \pagebreak
 
