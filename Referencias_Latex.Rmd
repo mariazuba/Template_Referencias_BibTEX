@@ -145,9 +145,7 @@ linkcolor: blue
 @Aranis2012 
 @Aranis2013
 @Aranis2015
-@Aranis2015a
 @Aranis2016
-@Aranis2017a 
 @Aranis2017
 @Aranis2018a
 @Aranis2018
@@ -158,7 +156,7 @@ linkcolor: blue
 
 @Wiff2018b
 @Wiff2018 
-@Wiff2018a
+
 
 
 ## INFORMES DE DESCARTE
@@ -189,7 +187,6 @@ linkcolor: blue
 @Saavedra2014 
 @Saavedra2015
 @Saavedra2015a
-@Saavedra2016 
 @Saavedra2016a 
 @Saavedra2017a 
 @Saavedra2017
@@ -198,8 +195,6 @@ linkcolor: blue
 @Saavedra2020 
 @Saavedra2021a
 @Saavedra2021
-
-@Bernal2004
 @Castillo2007
 @Araya2008
 @Cubillos2009
